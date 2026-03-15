@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"S_fimdeturno",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"S_fimdeturno",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

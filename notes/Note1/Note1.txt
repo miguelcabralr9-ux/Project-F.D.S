@@ -1,0 +1,7 @@
+variável velocidade = movspeed
+
+nome dos personagens:
+player_ravi(id = 1)
+player_pablo(id = 2)
+player_miguel(id = 3)
+player_ hermione(id = 4)
