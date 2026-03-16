@@ -39,6 +39,7 @@
     {"id":{"name":"S_fimdeturno","path":"scripts/S_fimdeturno/S_fimdeturno.yy",},},
     {"id":{"name":"S_gooner","path":"sprites/S_gooner/S_gooner.yy",},},
     {"id":{"name":"S_miguel","path":"sprites/S_miguel/S_miguel.yy",},},
+    {"id":{"name":"S_picosauro","path":"sprites/S_picosauro/S_picosauro.yy",},},
     {"id":{"name":"S_poufudido","path":"sprites/S_poufudido/S_poufudido.yy",},},
     {"id":{"name":"S_ravi","path":"sprites/S_ravi/S_ravi.yy",},},
     {"id":{"name":"sbv","path":"sprites/sbv/sbv.yy",},},
