@@ -1,14 +1,14 @@
 function endturn(){
 	global.total = array_length(global.ordem)
-if global.turn < global.total 
+if global.turn < global.total - 1
 {
 	global.turn += 1
 }
 else
 {
-	global.turn = 1
+	global.turn = 0
 }
-show_message("turno" + string(global.turn) + ":" + string(global.ordem[global.turn -1]))
-show_message(global.ordem)
+//show_message("turno" + string(global.turn) + ":" + string(global.ordem[global.turn -1]))
+//show_message(global.ordem)
 
 }
